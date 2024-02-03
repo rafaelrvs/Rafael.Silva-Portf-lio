@@ -1,0 +1,11 @@
+.containerProjeto{
+    display: flex;
+    flex-direction: column;
+     gap: 50px;
+    align-items: center;
+}
+.containerProjeto div{
+    background-color: #fff;
+    height: 300px;
+    width: 300px;
+}

@@ -1,0 +1,16 @@
+.header-app{
+    display: flex;
+    padding: 50px;
+    position: relative;
+    
+}
+
+.header-app ::before{
+    position: absolute;
+    content: " ";
+    background-color: brown;
+    margin-left: -15px;
+    margin-top: 2px;
+    height: 20px;
+    width: 5px;
+}
