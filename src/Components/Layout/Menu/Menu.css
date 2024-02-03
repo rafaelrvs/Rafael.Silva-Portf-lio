@@ -1,0 +1,15 @@
+.containerMenu{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60px;
+    height: 60px;
+    gap: 10px;
+    margin-right:5px;
+}
+#linha{
+    width: 50px;
+    height: 1px;
+    background-color: brown;
+}

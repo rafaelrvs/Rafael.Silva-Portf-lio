@@ -5,14 +5,17 @@
      align-items: center;
      width: 300px;
      margin: 0 auto;
+     gap: 30px;
     }
     .containerimg-icon .logo1{
     gap:40px;
     display: flex;
+    text-align: center;
     
 }
 .containerimg-icon .logo2{
-    gap:23px;
+    gap:40px;
+    text-align: center;
     display: flex;
 }
 .containerimg-icon img{

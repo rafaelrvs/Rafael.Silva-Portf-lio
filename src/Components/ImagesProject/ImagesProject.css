@@ -5,7 +5,25 @@
     align-items: center;
 }
 .containerProjeto div{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    color:  rgba(15, 31, 63, 1);
+    align-items: center;
     background-color: #fff;
     height: 300px;
     width: 300px;
+    font-weight: 500;
+    border-radius: 25px;
+}
+.containerProjeto img{
+    border-radius: 25px;
+    height: 150px;
+}
+.containerProjeto #btn-projeto{
+    padding: 5px 25px;
+    margin-top: 14px;
+    border-radius: 5px;
+    color: #fff;
+    background-color: rgba(15, 31, 63, 1) ;
 }
